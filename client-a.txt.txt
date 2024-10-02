@@ -1,0 +1,18 @@
+
+Generate random interger (1-20)
+Set random interger (1-20) as answer
+
+Ask "Please guess a number between 1-20"
+Take response 
+compare to answer
+try 1
+if same print "Correct!"
+if not same print "Please try again"
+Allow two additional trys
+
+If answer is not receied within 3 trys print 
+"Sorry the correct answer was (answer)"
+
+
+
+

@@ -1,0 +1,13 @@
+Consult warehouse map
+
+get "user destination" (x,y)
+get "user location" (x,y)
+
+compare "user destination" and "user location"
+if same print "You are at your destination"
+If differenet determine direction needed North, East, South, West
+
+get "user location" again after 1 minute 
+
+repeat until "user location" = "user destination"
+

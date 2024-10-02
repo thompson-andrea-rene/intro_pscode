@@ -1,4 +1,0 @@
-# Client Task C #
-# Add your pseudocode to this file below this line: #
-# ------------------------------------------------- #
-

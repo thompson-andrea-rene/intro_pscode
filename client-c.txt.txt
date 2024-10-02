@@ -1,0 +1,10 @@
+
+Start scan 
+
+Scan = 2 items
+
+box less than 50 items
+
+Continue until box count is 50
+
+
